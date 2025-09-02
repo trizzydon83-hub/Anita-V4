@@ -4,7 +4,7 @@
 <u>⚡ A simple WhatsApp User Bot Coded By Sean Phiri ⚡</u>
 </p>
 <p align="center">
-<img src="https://files.catbox.veo/jd0s4p.jpg"/>       
+<img src="https://files.catbox.moe/jd0s3p.jpg"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•Tails +V1.0-+V4•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+Sean+Phiri;RELEASED+DATE+05%2F12%2F2024." alt="Typing SVG" /></a>
 </p> 
@@ -37,5 +37,5 @@
 
 ## `Connect With Me```
 <p align="center">
-<a href="https://wa.me/263774271937"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/263774271937"><img src="https://img.shields.io/badge/Contact Sean-25D366?style=for-the-badge&logo=whatsapp&logoColor=red" />
 <a href="https://whatsapp.com/channel/
