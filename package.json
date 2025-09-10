@@ -1,16 +1,16 @@
 {
-  "name": "Queen_Anita-V4",
-  "version": "4.0.0",
+  "name": "Tails-V1.0 ",
+  "version": "1.0.0",
   "description": "A powerful Multi-Device WhatsApp Bot featuring various utilities and media tools.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "David Cyril",
+  "author": "Sean Phiri ",
   "license": "MIT",
   "dependencies": {
-"@whiskeysockets/baileys": "github:devibraah/bwmxmdtech",
+"@whiskeysockets/baileys": "github:trizzydon83-hub ",
     "awesome-phonenumber": "^2.64.0",
     "@hapi/boom": "^10.0.1",
     "axios": "^1.6.8",
